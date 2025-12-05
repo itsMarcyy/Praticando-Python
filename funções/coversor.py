@@ -5,7 +5,6 @@ Dado o seguinte código com uma lista de números de telefone armazenados incorr
 
 '''
 
-
 def converter_telefones(lista):  
 
    return [int(telefone) for telefone in lista] 
@@ -28,6 +27,8 @@ print(verifica_tipos(telefones_convertidos))
 
 
 '''
+#minha tentativa
+
 telefones = ["11987654321", "21912345678", "31987654321", "11911223344"] 
  
 def converter(lista):
